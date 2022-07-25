@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excel einlesen", "excel einlesen\excel einlesen.csproj", "{99641DF1-7FC3-42FF-9420-5D36EA569A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99641DF1-7FC3-42FF-9420-5D36EA569A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99641DF1-7FC3-42FF-9420-5D36EA569A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99641DF1-7FC3-42FF-9420-5D36EA569A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99641DF1-7FC3-42FF-9420-5D36EA569A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFDA777A-73D8-4906-851D-923F86A5A1D0}
+	EndGlobalSection
+EndGlobal

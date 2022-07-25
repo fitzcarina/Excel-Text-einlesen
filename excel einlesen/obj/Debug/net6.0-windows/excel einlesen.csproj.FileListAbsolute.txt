@@ -1,0 +1,80 @@
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.csproj.ResolveComReference.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.exe
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.deps.json
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.runtimeconfig.json
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.pdb
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.g.resources
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.AssemblyInfoInputs.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.AssemblyInfo.cs
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\refint\excel einlesen.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.pdb
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.genruntimeconfig.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\ref\excel einlesen.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.csproj.CopyComplete
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.exe
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.deps.json
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.runtimeconfig.json
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\excel einlesen.pdb
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.csproj.ResolveComReference.cache
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.g.resources
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.AssemblyInfoInputs.cache
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.AssemblyInfo.cs
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.csproj.CopyComplete
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\refint\excel einlesen.dll
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.pdb
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\excel einlesen.genruntimeconfig.cache
+C:\Users\c.fitz\source\repos\Excel\excel einlesen\excel einlesen\obj\Debug\net6.0-windows\ref\excel einlesen.dll

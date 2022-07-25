@@ -1,0 +1,27 @@
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.csproj.ResolveComReference.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\excel einlesen.exe
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\excel einlesen.deps.json
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\excel einlesen.runtimeconfig.json
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\excel einlesen.runtimeconfig.dev.json
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\excel einlesen.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\excel einlesen.pdb
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Word.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\bin\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.g.resources
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.AssemblyInfoInputs.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.AssemblyInfo.cs
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.csproj.CopyComplete
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.dll
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.pdb
+C:\Users\c.fitz\source\repos\excel einlesen\excel einlesen\obj\Debug\netcoreapp3.0\excel einlesen.genruntimeconfig.cache
